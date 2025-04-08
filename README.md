@@ -3,12 +3,11 @@
 
 # Advantages and Disadvantages of Using GitHub Pages
 
-GitHub Pages is a static site hosting service that allows you to host websites directly from your GitHub repositories. It's commonly used for project documentation, personal blogs, and portfolios. Below are some of the key advantages and disadvantages of using GitHub Pages.
+GitHub Pages is a static site hosting service that allows us to host websites directly from GitHub repositories. It's commonly used for project documentation, personal blogs, and portfolios. Below are some of the key advantages and disadvantages of using GitHub Pages.
 
 ## Advantages
 
-- **Customizable Page Styles:** Since GitHub Pages is essentially a website, you have full control over the design and layout. You can customize the appearance using HTML, CSS, and JavaScript to align with your project's branding or personal preferences. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
-
+- **Customizable Page Styles:** Since GitHub Pages is essentially a website, we have full control over the design and layout. We can customize the appearance using HTML, CSS, and JavaScript to align with our preferences.
 - **Flexible Document Linking:** functionalities can be customised
 
 ## Disadvantages
